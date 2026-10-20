@@ -1,0 +1,7 @@
+name: genpark-multi-agent-borda-voting-consensus-skill
+description: Positional Borda Count voting and weighted multi-agent consensus engine resolving conflicting model proposals
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
