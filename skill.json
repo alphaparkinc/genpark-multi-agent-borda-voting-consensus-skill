@@ -1,0 +1,9 @@
+{
+  "name": "genpark-multi-agent-borda-voting-consensus-skill",
+  "version": "1.0.1",
+  "description": "Positional Borda Count voting and weighted multi-agent consensus engine resolving conflicting model proposals",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
